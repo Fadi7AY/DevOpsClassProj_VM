@@ -1,1 +1,1 @@
-This should not be allowed
+ This is test
